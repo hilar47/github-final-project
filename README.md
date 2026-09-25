@@ -2,7 +2,7 @@
 
 This repository is the final project for the "Introduction to Git and GitHub" course.
 
-## Simple Interest Calculator
+## Simple Interest Calculator / Calcy
 
 This project includes a simple interest calculator implemented as a shell script (`simple-interest.sh`). It calculates the simple interest earned on a principal amount over a given time period at a specified annual interest rate.
 
